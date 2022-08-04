@@ -4,7 +4,7 @@
 
 <?php
 function writeMsg() {
-  echo "Hello world!";
+  echo "HlLoOoOo world!";
 }
 
 writeMsg();
