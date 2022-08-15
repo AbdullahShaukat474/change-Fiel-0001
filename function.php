@@ -24,6 +24,7 @@ writeMsg();
 <?php
 function writeMsg() {
   echo "Hello world!";
+  echo "developer5"
 }
 
 writeMsg();
