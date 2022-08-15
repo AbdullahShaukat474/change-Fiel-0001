@@ -6,6 +6,7 @@
 function writeMsg() {
   echo "Hello world!";
   echo "developer4"
+  echo "developer4"
 }
 
 writeMsg();
